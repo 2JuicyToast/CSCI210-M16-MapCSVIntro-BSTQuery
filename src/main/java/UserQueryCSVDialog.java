@@ -162,5 +162,6 @@ public class UserQueryCSVDialog {
         queryDialog.pack();
         queryDialog.setLocationRelativeTo(null);
         queryDialog.setVisible(true);
+
     }
 }
